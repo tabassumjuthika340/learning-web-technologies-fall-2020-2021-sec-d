@@ -1,0 +1,12 @@
+1234|juthika|juthika|Seller|Female|taba@gmail.com|1212-11-11
+12345|mishu|mishu|Customer|Female|mishu420@gmail.com|1998-02-02
+123456|tanbir|tanbir|Admin|Male|tanbir@gmail.com|1998-02-04
+1234567|anika|anika|Manager|Female|anika@gmail.com|2001-11-12
+123|anika|anikac|Manager|Female|anika@gmail.com|1998-02-13
+1234|tanbir|tanbirc|Admin|Male|tanbir@gmail.com|2000-03-01
+1122|juthika|juthikac|Seller|Female|taba@gmail.com|1997-02-07
+3322|mishu|mishuc|Customer|Female|mishu420@gmail.com|1998-04-03
+1122|etika|etikac|Customer|Female|etika@gmail.com|2001-09-09
+1212|hasi|hasi|Admin|Female|hasi@gmail.com|2222-02-22
+0000|shimu|shimuc|Customer|Female|shimu@gmail.com|2001-12-12
+1111|ruby|ruby|Seller|Female|ruby@gmail.com|1997-01-02
