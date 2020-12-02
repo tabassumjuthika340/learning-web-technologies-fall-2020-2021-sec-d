@@ -8,7 +8,7 @@
         
         <br><br><br><br><br><br>
         
-        <h1>Coupon Management System</h1>
+        <h1>Online Shop Management System</h1>
         
         <form action="controller/loginCheck.php" method="post">
         
