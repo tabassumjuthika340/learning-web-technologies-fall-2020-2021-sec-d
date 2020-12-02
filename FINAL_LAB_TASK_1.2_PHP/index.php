@@ -4,7 +4,7 @@
 </head>
 <body>
     
-    <center>
+    <Left>
         
         <br><br><br><br><br><br>
         
@@ -15,7 +15,7 @@
         <input type="text" name="username" placeholder="ID"><br><br>
         <input type="password" name="password" placeholder="Password"><br><br>
         <input type="submit" name="submit" value="Submit">
-        <a href="view/registration.php"><input type="button" name="signup" value="Sign Up"></a>
+        <a href="view/registration.php"><input type="button" name="Registration" value="Sign Up"></a>
         
     </form>
         
