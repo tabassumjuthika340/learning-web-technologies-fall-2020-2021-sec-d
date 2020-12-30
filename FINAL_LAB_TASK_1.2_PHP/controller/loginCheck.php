@@ -1,5 +1,7 @@
 <?php
 
+require_once('../models/userService.php');
+
 if(isset($_REQUEST['submit'])){
     
     if(!empty($_REQUEST['username']) and !empty($_REQUEST['password'])){
